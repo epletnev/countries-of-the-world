@@ -7,7 +7,8 @@ const CardList = ({ countries }) => {
 		  {
 			countries.map((country, i) => {
 		    	return (
-					<Card 						
+					<Card 		
+					    key={i}				
 						flag={countries[i].flag} 				
 						name={countries[i].name} 
 						region={countries[i].region}
