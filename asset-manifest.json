@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/countries-of-the-world/static/css/main.4cf22bc7.chunk.css",
-    "main.js": "/countries-of-the-world/static/js/main.51c95d0f.chunk.js",
-    "main.js.map": "/countries-of-the-world/static/js/main.51c95d0f.chunk.js.map",
+    "main.js": "/countries-of-the-world/static/js/main.1c54b336.chunk.js",
+    "main.js.map": "/countries-of-the-world/static/js/main.1c54b336.chunk.js.map",
     "runtime-main.js": "/countries-of-the-world/static/js/runtime-main.51858e16.js",
     "runtime-main.js.map": "/countries-of-the-world/static/js/runtime-main.51858e16.js.map",
     "static/css/2.3c03f26f.chunk.css": "/countries-of-the-world/static/css/2.3c03f26f.chunk.css",
     "static/js/2.10554f0a.chunk.js": "/countries-of-the-world/static/js/2.10554f0a.chunk.js",
     "static/js/2.10554f0a.chunk.js.map": "/countries-of-the-world/static/js/2.10554f0a.chunk.js.map",
     "index.html": "/countries-of-the-world/index.html",
-    "precache-manifest.4bf2b6b6b003c320e49aa9803736c021.js": "/countries-of-the-world/precache-manifest.4bf2b6b6b003c320e49aa9803736c021.js",
+    "precache-manifest.0544ca3d43bad34d59173d72b97a42f5.js": "/countries-of-the-world/precache-manifest.0544ca3d43bad34d59173d72b97a42f5.js",
     "service-worker.js": "/countries-of-the-world/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/countries-of-the-world/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.4cf22bc7.chunk.css.map": "/countries-of-the-world/static/css/main.4cf22bc7.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.10554f0a.chunk.js",
     "static/css/main.4cf22bc7.chunk.css",
-    "static/js/main.51c95d0f.chunk.js"
+    "static/js/main.1c54b336.chunk.js"
   ]
 }
